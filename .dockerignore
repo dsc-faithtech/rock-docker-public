@@ -1,4 +1,8 @@
-compose.yml
 .vs*
+.env*
+.gitignore
+compose.yml
+Dockerfile
 logs
 readme.md
+scripts/*
